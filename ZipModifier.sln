@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipModifier", "ZipModifier.csproj", "{82D8B216-1DF9-4D22-B5E2-E67CBDD0EF91}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{82D8B216-1DF9-4D22-B5E2-E67CBDD0EF91}.Debug.ActiveCfg = Debug|.NET
+		{82D8B216-1DF9-4D22-B5E2-E67CBDD0EF91}.Debug.Build.0 = Debug|.NET
+		{82D8B216-1DF9-4D22-B5E2-E67CBDD0EF91}.Release.ActiveCfg = Release|.NET
+		{82D8B216-1DF9-4D22-B5E2-E67CBDD0EF91}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
